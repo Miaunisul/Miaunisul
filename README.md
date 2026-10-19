@@ -24,6 +24,10 @@ Estudante de Ciência da Computação na UNISUL, com experiência no desenvolvim
 
 ### 💻 Linguagens & Frameworks
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,ts,js,python,html,css,spring&theme=dark" />
+</p>
+
 ### 🗄️ Bancos de Dados
 
 <p align="left">
@@ -40,7 +44,7 @@ Estudante de Ciência da Computação na UNISUL, com experiência no desenvolvim
 
 ## 🚀 Projeto em destaque
 
-### Capitu.ia — Chatbot inteligente para descoberta bibliográfica
+### Capitu.ia: Chatbot inteligente para descoberta bibliográfica
 
 Projeto acadêmico desenvolvido em equipe para facilitar a descoberta de obras bibliográficas por meio de uma interface conversacional em português.
 
@@ -57,7 +61,7 @@ A proposta combina processamento de texto, TF-IDF, similaridade textual e regras
 
 ## 💼 Experiência prática
 
-### ERP financeiro — BPO Ferreira
+### ERP financeiro: BPO Ferreira
 
 Desenvolvimento Full Stack de um ERP financeiro, com atuação no levantamento e análise de requisitos, implementação de funcionalidades, desenvolvimento backend e frontend, integração de APIs REST, modelagem de bancos de dados, testes e homologação.
 
@@ -67,11 +71,19 @@ Desenvolvimento Full Stack de um site institucional, incluindo frontend, backend
 
 ---
 
-## 📫 Contato
 
-- 💼 GitHub: [Miaunisul](https://github.com/Miaunisul)
-- 💼 LinkedIn: [Millena Rodrigues](https://www.linkedin.com/in/millenarodriguesff/)
+<h2 align="center">📫 Contato</h2>
 
----
+<br>
 
-> Código é construção, análise e aprendizado contínuo.
+<p align="center">
+  <a href="https://www.linkedin.com/in/millenarodriguesff/">
+    <img src="https://img.shields.io/badge/LINKEDIN-5B9BFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:millenarodriguesff@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-3868B5?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/Miaunisul">
+    <img src="https://img.shields.io/badge/GITHUB-244477?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
