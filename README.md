@@ -24,10 +24,6 @@ Estudante de Ciência da Computação na UNISUL, com experiência no desenvolvim
 
 ### 💻 Linguagens & Frameworks
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=24&duration=2200&pause=700&color=7DAAF2&vCenter=true&width=700&height=40&lines=Full+Stack+Developer;Java+%7C+Spring+Boot;Kotlin+%7C+Room+Database;TypeScript+%7C+JavaScript;Postman+%7C+Firebase;APIs+REST+%7C+PostgreSQL;Python+%7C+Artificial+Intelligence&deleteSpeed=45" alt="Texto animado" />
-</p>
-
 ### 🗄️ Bancos de Dados
 
 <p align="left">
