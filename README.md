@@ -1,7 +1,7 @@
 # Olá! Eu sou a Millena 👋
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=24&duration=2200&pause=700&color=A3C5FF&vCenter=true&width=700&height=40&lines=Full+Stack+%26+Android+Developer;Java+%7C+Kotlin+%7C+Spring+Boot;TypeScript+%7C+JavaScript;PostgreSQL+%7C+SQLite+%7C+Firebase;Room+DB+%7C+Git+%7C+GitHub+%7C+Postman&deleteSpeed=45" alt="Tecnologias" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=24&duration=2200&pause=700&color=5B9BFF&vCenter=true&width=700&height=40&lines=Full+Stack+%26+Android+Developer;Java+%7C+Kotlin+%7C+Spring+Boot;TypeScript+%7C+JavaScript;PostgreSQL+%7C+SQLite+%7C+Firebase;Room+DB+%7C+Git+%7C+GitHub+%7C+Postman&deleteSpeed=45" alt="Tecnologias" />
 </p>
 
 ### Desenvolvedora de Software Full Stack
@@ -40,7 +40,7 @@ Estudante de Ciência da Computação na UNISUL, com experiência no desenvolvim
 
 ## 🚀 Projeto em destaque
 
-### CAPITU — Chatbot inteligente para descoberta bibliográfica
+### Capitu.ia — Chatbot inteligente para descoberta bibliográfica
 
 Projeto acadêmico desenvolvido em equipe para facilitar a descoberta de obras bibliográficas por meio de uma interface conversacional em português.
 
